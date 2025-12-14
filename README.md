@@ -370,7 +370,7 @@ AI tools (Claude, GitHub Copilot) used as documented above
 Inspiration from modern e-commerce platforms
 
 📧 Contact
-Your Name - your.email@example.com
-Project Link: https://github.com/yourusername/sweet-shop-management
+Your Name - ishwaradityakumar@gmail.com
+Project Link: https://github.com/adityaishwar18/sweet-shop-management
 
 Note: This project demonstrates proficiency in full-stack development, TDD practices, modern development workflows, and responsible AI tool usage.](https://claude.ai/public/artifacts/cbac93c5-2bfb-446b-9b8b-b33e6a32a40c)https://claude.ai/public/artifacts/cbac93c5-2bfb-446b-9b8b-b33e6a32a40c](https://claude.ai/public/artifacts/cbac93c5-2bfb-446b-9b8b-b33e6a32a40c)
